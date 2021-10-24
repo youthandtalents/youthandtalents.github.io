@@ -1,2 +1,2 @@
 #### Chisuma Foundation 
-https://chisumafoundation.github.io
+https://chisumafoundation.org

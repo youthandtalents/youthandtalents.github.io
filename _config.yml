@@ -8,7 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chisumafoundation.github.io" # the base hostname & protocol for your site, e.g. http://example.co
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -21,7 +20,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  # shortname: chisumafoundation
 
 
 plugins:
@@ -61,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Chisuma Foundation"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true

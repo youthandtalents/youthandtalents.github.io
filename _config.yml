@@ -4,7 +4,7 @@ title: Youth and Talents
 tagline: Youth and Talents
 email: youthandtalents@example.com
 description: >
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/youthandtalents" # the subpath of your site, e.g. /blog
 url: "https://youthandtalents.github.io" # the base hostname & protocol for your site, e.g. http://example.co
 permalink: pretty
 #favicon: /path/to/favicon.png

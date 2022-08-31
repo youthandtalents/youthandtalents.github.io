@@ -1,11 +1,11 @@
 # Site Settings
 lang: en
-title: Chisuma Foundation
-tagline: Chisuma Foundation
-email: chisumafoundation@example.com
+title: Youth & Talents
+tagline: Youth & Talents
+email: youthandtalents@example.com
 description: >
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chisumafoundation.github.io" # the base hostname & protocol for your site, e.g. http://example.co
+url: "https://youthandtalents.github.io" # the base hostname & protocol for your site, e.g. http://example.co
 permalink: pretty
 #favicon: /path/to/favicon.png
 #hide_share_buttons: true
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Chisuma Foundation"
+      author: "Youth & Talents"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true

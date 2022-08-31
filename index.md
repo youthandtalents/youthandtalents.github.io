@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chisuma Foundation
-subtitle: Welcome To Chisuma Foundation
+title: Youth & Talents
+subtitle: Welcome To Youth & Talents
 hero_height: is-large
 show_sidebar: false
 hide_footer: true
